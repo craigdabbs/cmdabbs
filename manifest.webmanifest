@@ -1,0 +1,56 @@
+{
+  "name": "Craig Dabbs Plumbing & Heating",
+  "short_name": "Craig Dabbs Plumbing & Heating",
+  "lang": "en-uk",
+  "display": "fullscreen",
+  "orientation" : "portrait",
+  "start_url": "cmdabbs.co.uk/cmdabbs.co.uk/?utm_source=web_app_manifest",
+  "background_color": "#fff",
+  "theme_color": "#000",
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  "icons": [
+    {
+      "src": "cmdabbs.co.uk/images/plumb/CMDABBS-Logo_hu6499801448311561269.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "cmdabbs.co.uk/images/plumb/CMDABBS-Logo_hu3575280492434913123.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "cmdabbs.co.uk/images/plumb/CMDABBS-Logo_hu13609303707643623885.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "cmdabbs.co.uk/images/plumb/CMDABBS-Logo_hu5601554318679498398.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "cmdabbs.co.uk/images/plumb/CMDABBS-Logo_hu8310078251101812677.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "cmdabbs.co.uk/images/plumb/CMDABBS-Logo_hu2236648053210478135.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+  
+  
+}
