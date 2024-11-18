@@ -1,0 +1,13 @@
+{{ $image := resources.GetMatch (.Get "src") }}
+{{/*  {{ $px :=  resources.GetMatch (.Get "px") }}  */}}
+{{ $alt :=  resources.GetMatch (.Get "alt") }}
+{{ $px :=  "100x" }}
+
+<img src="{{($image.Resize $px).RelPermalink }}" link="http://gassafe.com">
+
+{{/*  {{ $image := (.Get 0) }}
+{{ $image := (.Get 1) }}
+<img src="{{($image.Resize $px).RelPermalink }}">  */}}
+
+
+
